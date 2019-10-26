@@ -15,7 +15,7 @@ public class E5 {
             }else {
                 oddArr.add(userInput);
             }
-        }System.out.print("The even numbers are: "+evenArr+"\n");
-        System.out.print("The odd numbers are: "+oddArr);
+        }System.out.print("There are: "+evenArr.size()+" even numbers\n");
+        System.out.print("There are: "+oddArr.size()+" odd numbers\n");
     }
 }
