@@ -15,8 +15,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ShkGovzy7kmymMWs0BqTIxpaFV" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -32,9 +36,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.E2">
+  <component name="RunManager" selected="Application.E5">
     <configuration name="E2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E2" />
+      <module name="ArrayExercises2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E5" />
       <module name="ArrayExercises2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -49,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E5" />
         <item itemvalue="Application.E2" />
         <item itemvalue="Application.Main" />
       </list>
